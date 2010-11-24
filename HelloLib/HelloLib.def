@@ -1,0 +1,5 @@
+LIBRARY "HelloLib_Library"
+DESCRIPTION "HelloLib Library"
+
+EXPORTS
+	Hello_World		@1

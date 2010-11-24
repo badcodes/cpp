@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[svn-remote "svn"]
+	url = https://xrzworkspace.googlecode.com/svn
+	fetch = cpp/trunk:refs/remotes/trunk
+	branches = cpp/branches/*:refs/remotes/*
+	tags = cpp/tags/*:refs/remotes/tags/*
+[svn]
+	authorsfile = /myplace/workspace/authors.txt
+[remote "gitorious"]
+	url = git@gitorious.org:eotect/cpp.git
+	fetch = +refs/heads/*:refs/remotes/gitorious/*
+[remote "github"]
+	url = git@github.com:eotect/cpp.git
+	fetch = +refs/heads/*:refs/remotes/github/*

@@ -1,0 +1,15 @@
+        0  09-06-06 03:49   asimov/
+    16726  09-06-06 03:47   asimov/01.htm
+    11157  09-06-06 03:47   asimov/01.jpg
+        0  09-06-06 03:47   asimov/02/
+      769  09-06-06 03:47   asimov/02/130.gif
+    51936  09-06-06 03:47   asimov/02/a02.jpg
+     4851  09-06-06 03:47   asimov/02/index.htm
+   131535  09-06-06 03:47   asimov/02/mydoc001.htm
+    10013  09-06-06 03:47   asimov/02/mydoc002.htm
+       68  09-06-06 03:47   asimov/02/r_00007.gif
+      762  09-06-06 03:47   asimov/02/Untitled-3.jpg
+     9926  09-06-06 03:47   asimov/02/Untitled-311102.jpg
+     6350  09-06-06 03:47   asimov/02/Untitled-311103.jpg
+    22697  09-06-06 03:47   asimov/02/Untitled-311104.jpg
+    
